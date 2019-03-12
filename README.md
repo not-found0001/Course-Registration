@@ -20,3 +20,4 @@
   
 # <p>Registration Form With Details Information Of A Student<p>
   <img src="img/Capture.JPG">
+  <img src="img/Capture8.JPG">
