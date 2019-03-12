@@ -1,0 +1,178 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+h1,
+h2,
+h3,
+h3,
+h3,
+h6{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: #ededed;
+}
+.wrapper{
+	background: #fff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	border-radius: 4px;
+	padding: 0px 20px;
+	
+}
+.header{
+	padding: 30px 0;
+	padding-bottom: 0;
+}
+.header .logo{
+	overflow:hidden;
+	text-align: center;
+}
+.header .logo img{
+	width: auto;
+	max-height: 140px;
+}
+.header  .heading-text .heading h2{
+	font-size: 39px;
+	margin: 0;
+	margin-top: 10px;
+}
+.header .roll-reg{
+	margin-top: 20px;
+
+}
+.header .roll-reg .roll{
+	width: 48%;
+	float: left;
+}
+.header .roll-reg .roll .left{
+	width: 16%;
+	float: left;
+}
+.header .roll-reg .roll .left p{
+	    font-weight: 500;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.header .roll-reg .roll .right{
+	width: 90%;
+}
+.header .roll-reg .roll table{
+	width: 30%;
+	text-align: center;
+}
+.header .roll-reg .roll table tbody tr td{
+	border: 2px solid #b3b3b3;
+	font-size: 18px;
+	font-weight: bold;
+	padding:3px 10px;
+}
+.info{
+	padding-bottom: 20px;
+}
+.info .heading h2{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.info .text p input[type="text"]{
+	border: 0;
+	border-bottom: 1px dashed #000;
+}
+.info .text{
+
+}
+.info .text p{
+	padding: 0;
+	margin: 0;
+	text-align: justify;
+	text-justify: inter-word;
+	margin-bottom: 5px;
+
+}
+.course .tbl{
+	width: 48%;
+	float: left;
+	margin-right: 2%;
+}
+.course .tbl:last-child{
+	margin-right: 0;
+}
+.course .heading{
+	margin-bottom: 20px;
+}
+.course .heading h2{
+	text-decoration: underline;
+	font-size: 24px;
+}
+
+.course .tbl table tr:last-child td:first-child{
+	text-align: right;
+
+}
+.course .tbl table tr:last-child td{
+	font-weight: bold;
+}
+.course  .para{
+	border-bottom: 1px dashed #000;
+	margin-bottom: 30px;
+}
+.final-course .fnl-tbl .tbl table thead tr:first-child th{
+	text-align: center;
+	border-bottom: 0;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 24px;
+}
+.final-course .fnl-tbl .tbl table thead tr:last-child th{
+	border: 0;
+
+}
+.final-course .fnl-tbl .tbl table tbody tr:last-child td:first-child{
+	text-align: right;
+	font-weight: bold;
+}
+.final-course .fnl-tbl .tbl table tbody tr:last-child td:last-child{
+	font-weight: bold;
+}
+.final-course .fnl-tbl .tbl table tbody tr:nth-last-child(2) td:first-child{
+	text-align: right;
+	font-weight: bold;
+}
+.final-course .fnl-tbl .tbl table tbody tr:nth-last-child(2) td:last-child{
+	font-weight: bold;
+}
+.assure .text p input[type="text"]{
+	border: 0;
+	border-bottom: 1px dashed #000;
+}
+.assure .text:first-child{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.assure .text{
+	text-align: justify;
+	text-justify: inter-word;
+}
+.assure .text:last-child{
+	padding-bottom: 20px;
+}
+.final-course .tbl-text h2{
+	font-size: 24px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	text-decoration: underline;
+}

@@ -1,0 +1,30 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;line-height:18px;color:#000;}
+
+.templete{width:960px;margin:0 auto;}
+.clear{overflow:hidden}
+.maincontent {
+  background: none repeat scroll 0 0 #00005A;
+  height: 1000px;
+  width: 910px;
+}
+.tableborder {
+  padding-top: 0px;
+}
+.Rforom ul{margin:0;padding:0;list-style:none;}
+.Rforom ul li{display:block;float:left;}
+.Rforom ul li p {
+  background: none repeat scroll 0 0 #5F5F5F;
+  border: 1px solid #006C82;
+  color: #FFC2C3;
+  display: block;
+  font-size: 20px;
+  margin: 8px;
+  padding: 8px 30px;
+  text-align: center;
+  text-decoration: none;
+}
+.error {
+  color: #FF0000;
+  margin: 7px;
+}
